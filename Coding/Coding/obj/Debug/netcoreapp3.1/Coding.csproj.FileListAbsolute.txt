@@ -1,0 +1,14 @@
+C:\Users\ilush\source\repos\Coding\Coding\bin\Debug\netcoreapp3.1\Coding.exe
+C:\Users\ilush\source\repos\Coding\Coding\bin\Debug\netcoreapp3.1\Coding.deps.json
+C:\Users\ilush\source\repos\Coding\Coding\bin\Debug\netcoreapp3.1\Coding.runtimeconfig.json
+C:\Users\ilush\source\repos\Coding\Coding\bin\Debug\netcoreapp3.1\Coding.runtimeconfig.dev.json
+C:\Users\ilush\source\repos\Coding\Coding\bin\Debug\netcoreapp3.1\Coding.dll
+C:\Users\ilush\source\repos\Coding\Coding\bin\Debug\netcoreapp3.1\Coding.pdb
+C:\Users\ilush\source\repos\Coding\Coding\obj\Debug\netcoreapp3.1\Coding.csproj.AssemblyReference.cache
+C:\Users\ilush\source\repos\Coding\Coding\obj\Debug\netcoreapp3.1\Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilush\source\repos\Coding\Coding\obj\Debug\netcoreapp3.1\Coding.AssemblyInfoInputs.cache
+C:\Users\ilush\source\repos\Coding\Coding\obj\Debug\netcoreapp3.1\Coding.AssemblyInfo.cs
+C:\Users\ilush\source\repos\Coding\Coding\obj\Debug\netcoreapp3.1\Coding.csproj.CoreCompileInputs.cache
+C:\Users\ilush\source\repos\Coding\Coding\obj\Debug\netcoreapp3.1\Coding.dll
+C:\Users\ilush\source\repos\Coding\Coding\obj\Debug\netcoreapp3.1\Coding.pdb
+C:\Users\ilush\source\repos\Coding\Coding\obj\Debug\netcoreapp3.1\Coding.genruntimeconfig.cache

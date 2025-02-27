@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ilush\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ilush\\.nuget\\packages"
+    ]
+  }
+}
